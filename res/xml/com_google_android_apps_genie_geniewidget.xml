@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="style/ActionBarCompat">@style/com_android_email_PlainEditText</item>
+    <item name="color/newsitem_background_pressed">@color/holo_blue_light</item>
+    <item name="color/tab_background">@color/black</item>
+    <item name="color/tab_bottom_border">@color/holo_blue_light</item>
+    <item name="color/tab_bottom_border_active">@color/gray</item>
+    <item name="color/tab_bottom_border_active">@color/holo_blue_light</item>
+    <item name="color/tab_separator">@color/verydarkgray</item>
+    <item name="drawable/action_settings">@drawable/ic_menu_preferences</item>
+    <item name="drawable/appwidget_bg_focused_holo">@drawable/appwidget_bg_holo</item>
+    <item name="drawable/appwidget_bg_holo">@drawable/appwidget_bg_holo</item>
+    <item name="drawable/appwidget_bg_pressed_holo">@drawable/appwidget_bg_holo</item>
+    <item name="drawable/appwidget_inner_focused_c_holo">@drawable/appwidget_inner_focused_c_holo</item>
+    <item name="drawable/appwidget_inner_focused_l_holo">@drawable/appwidget_inner_focused_l_holo</item>
+    <item name="drawable/appwidget_inner_focused_r_holo">@drawable/appwidget_inner_focused_r_holo</item>
+    <item name="drawable/appwidget_inner_pressed_c_holo">@drawable/appwidget_inner_pressed_c_holo</item>
+    <item name="drawable/appwidget_inner_pressed_l_holo">@drawable/appwidget_inner_pressed_l_holo</item>
+    <item name="drawable/appwidget_inner_pressed_r_holo">@drawable/appwidget_inner_pressed_r_holo</item>
+    <item name="drawable/bg_weather_panel_app">@drawable/appwidget_bg_holo</item>
+    <item name="drawable/ic_menu_refresh">@drawable/ic_menu_refresh</item>
+    <item name="drawable/ic_menu_share">@drawable/ic_menu_share</item>
+    <item name="drawable/ic_search_button">@drawable/ic_menu_search</item>
+    <item name="drawable/list_item_bg">@drawable/background_holo_dark</item>
+    <item name="drawable/loadingbar">@drawable/progress_horizontal</item>
+    <item name="drawable/navigation_refresh">@drawable/ic_menu_refresh</item>
+    <item name="drawable/weather_background_grey">@drawable/background_holo_dark</item>
+    <item name="drawable/widget_bg">@drawable/appwidget_bg_holo</item>
+</resource-redirections>

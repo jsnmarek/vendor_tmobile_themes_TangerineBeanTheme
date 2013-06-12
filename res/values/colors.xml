@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_blue_light">#ffff8800</color>
+    <color name="holo_blue_dark">#ffff8800</color>
+    <color name="holo_blue_trans">#60ff8800</color>
+    <color name="holo_blue_bright">#ffffbb33</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="gray">#ff888888</color>
+    <color name="verylightgray">#ffdddddd</color>
+    <color name="lightgray">#ffbbbbbb</color>
+    <color name="darkgray">#ff555555</color>
+    <color name="verydarkgray">#ff222222</color>
+    <color name="transparentgray">#88666666</color>
+    <color name="darkorange">#ff663300</color>
+    <color name="darkred">#ffa50000</color>
+    <item type="color" name="holo_red_light">@color/holo_blue_dark</item>
+    <color name="transparentblack">#60000000</color>
+    <color name="halftransparentblack">#bb000000</color>
+    <color name="halftransparentwhite">#99ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="link_text_color">#ff729eb4</color>
+    <color name="highlighted_text">#66808080</color>
+    <color name="red">#ffff0000</color>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="color/black">@color/white</item>
+    <item name="color/car_buying_target_popup_background">@color/black</item>
+    <item name="color/grey41">@color/lightgray</item>
+    <item name="color/investments_listview_dark_text">@color/verylightgray</item>
+    <item name="color/listview_child_text">@color/lightgray</item>
+    <item name="color/main_background_color">@color/black</item>
+    <item name="color/ultra_light_grey">@color/lightgray</item>
+    <item name="drawable/action_bar_bkg">@drawable/background_holo_dark</item>
+    <item name="drawable/actionbar_background">@color/black</item>
+    <item name="drawable/actionbar_dropdown_background">@color/black</item>
+    <item name="drawable/bkgd_chart_pattern">@drawable/background_holo_dark</item>
+    <item name="drawable/bkgd_main_menu_selected">@drawable/list_pressed_holo</item>
+    <item name="drawable/collapsed_icon">@drawable/expander_close_holo_dark</item>
+    <item name="drawable/expanded_icon">@drawable/expander_open_holo_dark</item>
+    <item name="drawable/gray_paper">@drawable/background_holo_dark</item>
+    <item name="drawable/group_header_bkg">@drawable/ab_transparent_dark_holo</item>
+    <item name="drawable/header_bkg">@drawable/background_holo_dark</item>
+    <item name="drawable/inv_section_divider">@drawable/list_divider_holo</item>
+    <item name="drawable/list_selector">@drawable/list_selector_holo_black</item>
+    <item name="drawable/list_selector_notrounded">@drawable/list_selector_holo_black</item>
+    <item name="drawable/listview_child_divider">@drawable/list_divider_holo</item>
+    <item name="drawable/paper_bkgd_selector">@drawable/list_selector_holo_black</item>
+    <item name="drawable/picker_selected_background">@drawable/list_pressed_holo</item>
+    <item name="drawable/slate_repeating_bg">@drawable/background_holo_dark</item>
+</resource-redirections>

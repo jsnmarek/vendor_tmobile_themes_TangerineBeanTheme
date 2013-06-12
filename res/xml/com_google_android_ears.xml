@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="color/ears_widget_bg">@color/black</item>
+    <item name="color/ears_widget_button_text">@color/white</item>
+    <item name="color/ears_widget_no_result_text">@color/darkred</item>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg_holo</item>
+</resource-redirections>

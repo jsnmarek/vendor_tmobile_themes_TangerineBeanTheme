@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="style/AndroidTheme">@style/com_android_email_EmailTheme</item>
+    <item name="color/holo_blue_bright">@color/holo_blue_bright</item>
+    <item name="color/holo_blue_dark">@color/holo_blue_dark</item>
+    <item name="color/holo_blue_light">@color/holo_blue_light</item>
+    <item name="color/list_separator">@color/gray</item>
+    <item name="drawable/ic_action_schedule">@drawable/ic_menu_recent_history</item>
+    <item name="drawable/ic_action_search">@drawable/ic_menu_search</item>
+    <item name="drawable/ic_action_trash">@drawable/ic_menu_delete</item>
+    <item name="drawable/ic_action_upgrade">@drawable/ic_menu_send</item>
+    <item name="drawable/ic_add_alarm">@drawable/ic_menu_alarm</item>
+    <item name="drawable/ic_add_alarm_black">@drawable/ic_menu_alarm</item>
+    <item name="drawable/ic_alarm">@drawable/ic_menu_alarm</item>
+    <item name="drawable/ic_alert">@drawable/ic_menu_alert</item>
+    <item name="drawable/ic_app_outline">@drawable/transparent</item>
+    <item name="drawable/ic_cloud">@drawable/ic_menu_upload</item>
+    <item name="drawable/ic_device">@drawable/ic_menu_archive</item>
+    <item name="drawable/ic_dragdown">@drawable/ic_dragdown</item>
+    <item name="drawable/ic_dragup">@drawable/ic_dragup</item>
+    <item name="drawable/ic_messaging">@mipmap/ic_launcher_smsmms</item>
+    <item name="drawable/ic_refresh">@drawable/ic_menu_refresh</item>
+    <item name="drawable/ic_sdcard">@drawable/ic_menu_save</item>
+    <item name="drawable/panel_bg_holo_dark">@drawable/panel_bg_holo_dark</item>
+    <item name="drawable/panel_bg_holo_light">@drawable/panel_bg_holo_light</item>
+</resource-redirections>

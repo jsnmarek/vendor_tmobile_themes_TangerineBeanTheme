@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="style/FirstRunTabletTheme">@style/com_android_chrome_FirstRunTabletTheme</item>
+    <item name="style/FirstRunTheme">@style/com_android_chrome_FirstRunTheme</item>
+    <item name="style/MainTheme">@style/com_android_chrome_MainTheme</item>
+    <item name="color/find_result_bar_background_color">@color/black</item>
+    <item name="color/find_result_bar_no_results_background_color">@color/black</item>
+    <item name="color/fre_background_color">@color/white</item>
+    <item name="color/infobar_background_separator">@color/darkgray</item>
+    <item name="color/light_background_color">@color/black</item>
+    <item name="color/locationbar_domain_and_registry">@color/black</item>
+    <item name="color/tab_back">@color/black</item>
+    <item name="color/tab_switcher_background">@color/black</item>
+    <item name="drawable/bg_toolbar_tablet">@drawable/ab_solid_dark_holo</item>
+    <item name="drawable/bookmarks_icon">@drawable/com_android_chrome_bookmarks_icon</item>
+    <item name="drawable/bookmarks_widget_thumb_selector_pressed">@drawable/com_android_browser_bookmarks_widget_thumb_selector_pressed</item>
+    <item name="drawable/border_standard">@drawable/com_android_chrome_border_standard</item>
+    <item name="drawable/infobar_button_text">@color/lightgray</item>
+    <item name="drawable/infobar_info_background">@color/black</item>
+    <item name="drawable/most_visited_icon">@drawable/com_android_chrome_most_visited_icon</item>
+    <item name="drawable/new_tab_logo">@drawable/com_android_chrome_new_tab_logo</item>
+    <item name="drawable/ntp_toolbar_button_background_pressed_img">@drawable/com_android_chrome_ntp_toolbar_button_background_pressed_img</item>
+    <item name="drawable/ntp_toolbar_button_background_selected_img">@drawable/com_android_chrome_ntp_toolbar_button_background_selected_img</item>
+    <item name="drawable/ntp_toolbar_button_background_selected_pressed_img">@drawable/com_android_chrome_ntp_toolbar_button_background_selected_pressed_img</item>
+    <item name="drawable/open_tabs_icon">@drawable/com_android_chrome_open_tabs_icon</item>
+    <item name="drawable/thumbnail_bookmarks_widget_no_bookmark_holo">@drawable/com_android_browser_thumbnail_bookmarks_widget_no_bookmark_holo</item>
+    <item name="drawable/toolbar">@drawable/ab_solid_dark_holo</item>
+    <item name="drawable/toolbar_incognito">@drawable/ab_solid_dark_holo</item>
+</resource-redirections>

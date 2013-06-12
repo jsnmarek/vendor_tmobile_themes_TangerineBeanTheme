@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_browser">@mipmap/ic_launcher_browser</item>
+    <item name="mipmap/ic_launcher_shortcut_browser_bookmark">@mipmap/ic_launcher_shortcut_browser_bookmark</item>
+    <item name="color/black">@color/black</item>
+    <item name="color/navtab_bg">@color/black</item>
+    <item name="color/qc_normal">@color/halftransparentblack</item>
+    <item name="color/qc_selected">@color/gray</item>
+    <item name="color/qc_sub">@color/halftransparentblack</item>
+    <item name="color/qc_tab_nr">@color/gray</item>
+    <item name="color/tabViewTitleBackground">@color/transparentblack</item>
+    <item name="color/tertiary_text_holo_light">@color/lightgray</item>
+    <item name="drawable/bg_browsertabs">@drawable/com_android_browser_bg_urlbar</item>
+    <item name="drawable/bg_urlbar">@drawable/background_holo_dark</item>
+    <item name="drawable/bookmarks_widget_thumb_selector_focused">@drawable/com_android_browser_bookmarks_widget_thumb_selector_focused</item>
+    <item name="drawable/bookmarks_widget_thumb_selector_pressed">@drawable/com_android_browser_bookmarks_widget_thumb_selector_pressed</item>
+    <item name="drawable/browser_background_holo">@drawable/background_holo_dark</item>
+    <item name="drawable/browsertab_add">@drawable/com_android_browser_browsertab_add</item>
+    <item name="drawable/browsertab_add_focused">@drawable/com_android_browser_browsertab_add_focused</item>
+    <item name="drawable/nav_tab_bg">@drawable/com_android_browser_nav_tab_bg</item>
+    <item name="drawable/overlay_url_bookmark_widget_holo">@drawable/com_android_browser_overlay_url_bookmark_widget_holo</item>
+    <item name="drawable/progress">@drawable/progress</item>
+    <item name="drawable/textfield_active_holo_dark">@drawable/textfield_active_holo_dark</item>
+    <item name="drawable/thumbnail_bookmarks_widget_no_bookmark_holo">@drawable/com_android_browser_thumbnail_bookmarks_widget_no_bookmark_holo</item>
+</resource-redirections>

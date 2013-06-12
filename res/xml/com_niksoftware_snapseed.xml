@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="color/main_tab_pressed">@color/holo_blue_light</item>
+    <item name="drawable/edit_shine_behind_picture_small">@drawable/background_holo_dark</item>
+    <item name="drawable/edit_shine_behind_picture_small_port">@drawable/background_holo_dark</item>
+    <item name="drawable/icon_background">@drawable/background_holo_dark</item>
+    <item name="drawable/icon_edit_toolbar_bg">@drawable/background_holo_dark</item>
+    <item name="drawable/icon_select_sidebar_bg">@drawable/background_holo_dark</item>
+    <item name="drawable/new_bg">@drawable/background_holo_dark</item>
+    <item name="drawable/topbar_background">@drawable/background_holo_dark</item>
+</resource-redirections>

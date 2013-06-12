@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="color/accent_color">@color/holo_blue_dark</item>
+    <item name="color/appwidget_artist_text">@color/holo_blue_dark</item>
+    <item name="color/appwidget_song_text">@color/white</item>
+    <item name="drawable/albumart_mp_unknownz">@drawable/com_google_android_music_ic_album_loading</item>
+    <item name="drawable/background">@drawable/background_holo_dark</item>
+    <item name="drawable/icon">@mipmap/ic_launcher_apollo</item>
+    <item name="drawable/list_selector_background_disabled">@drawable/list_selector_background_disabled</item>
+    <item name="drawable/list_selector_background_focus">@drawable/list_selector_background_focus</item>
+    <item name="drawable/list_selector_background_longpress">@drawable/list_longpressed_holo</item>
+    <item name="drawable/list_selector_background_pressed">@drawable/list_pressed_holo</item>
+    <item name="drawable/media_next_normal">@drawable/com_google_android_music_btn_playback_ff_focused_holo_dark</item>
+    <item name="drawable/media_next_pressed">@drawable/com_google_android_music_btn_playback_ff_disabled_focused_holo_dark</item>
+    <item name="drawable/media_pause_normal">@drawable/com_google_android_music_btn_playback_pause_focused_holo_dark</item>
+    <item name="drawable/media_pause_pressed">@drawable/com_google_android_music_btn_playback_pause_disabled_focused_holo_dark</item>
+    <item name="drawable/media_play_normal">@drawable/com_google_android_music_btn_playback_play_focused_holo_dark</item>
+    <item name="drawable/media_play_pressed">@drawable/com_google_android_music_btn_playback_play_disabled_focused_holo_dark</item>
+    <item name="drawable/media_previous_normal">@drawable/com_google_android_music_btn_playback_rew_focused_holo_dark</item>
+    <item name="drawable/media_previous_pressed">@drawable/com_google_android_music_btn_playback_rew_disabled_focused_holo_dark</item>
+    <item name="drawable/numberpicker_down_disabled">@drawable/numberpicker_down_disabled</item>
+    <item name="drawable/numberpicker_down_disabled_focused">@drawable/numberpicker_down_disabled_focused</item>
+    <item name="drawable/numberpicker_down_normal">@drawable/numberpicker_down_normal</item>
+    <item name="drawable/numberpicker_down_pressed">@drawable/numberpicker_down_pressed</item>
+    <item name="drawable/numberpicker_down_selected">@drawable/numberpicker_down_selected</item>
+    <item name="drawable/numberpicker_input_disabled">@drawable/numberpicker_input_disabled</item>
+    <item name="drawable/numberpicker_input_normal">@drawable/numberpicker_input_normal</item>
+    <item name="drawable/numberpicker_input_pressed">@drawable/numberpicker_input_pressed</item>
+    <item name="drawable/numberpicker_input_selected">@drawable/numberpicker_input_selected</item>
+    <item name="drawable/numberpicker_up_disabled">@drawable/numberpicker_up_disabled</item>
+    <item name="drawable/numberpicker_up_disabled_focused">@drawable/numberpicker_up_disabled_focused</item>
+    <item name="drawable/numberpicker_up_normal">@drawable/numberpicker_up_normal</item>
+    <item name="drawable/numberpicker_up_pressed">@drawable/numberpicker_up_pressed</item>
+    <item name="drawable/numberpicker_up_selected">@drawable/numberpicker_up_selected</item>
+    <item name="drawable/scrollbar_handle_accelerated_anim2">@drawable/scrollbar_handle_accelerated_anim2</item>
+</resource-redirections>

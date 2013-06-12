@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="color/perms_dangerous_perm_color">@color/holo_blue_light</item>
+    <item name="color/title_color">@color/holo_blue_light</item>
+    <item name="drawable/bottom_bar">@drawable/bottom_bar</item>
+    <item name="drawable/btn_dir_next_disabled_dark">@drawable/com_google_android_gsf_loginbtn_dir_next_disabled_dark</item>
+    <item name="drawable/btn_dir_next_disabled_focused_dark">@drawable/com_google_android_gsf_loginbtn_dir_next_pressed_dark</item>
+    <item name="drawable/btn_dir_next_focused_dark">@drawable/com_google_android_gsf_loginbtn_dir_next_pressed_dark</item>
+    <item name="drawable/btn_dir_next_normal_dark">@drawable/com_google_android_gsf_loginbtn_dir_next_normal_dark</item>
+    <item name="drawable/btn_dir_next_pressed_dark">@drawable/com_google_android_gsf_loginbtn_dir_next_pressed_dark</item>
+    <item name="drawable/btn_dir_prev_disabled_dark">@drawable/com_google_android_gsf_loginbtn_dir_prev_disabled_dark</item>
+    <item name="drawable/btn_dir_prev_disabled_focused_dark">@drawable/com_google_android_gsf_loginbtn_dir_prev_pressed_dark</item>
+    <item name="drawable/btn_dir_prev_focused_dark">@drawable/com_google_android_gsf_loginbtn_dir_prev_pressed_dark</item>
+    <item name="drawable/btn_dir_prev_normal_dark">@drawable/com_google_android_gsf_loginbtn_dir_prev_normal_dark</item>
+    <item name="drawable/btn_dir_prev_pressed_dark">@drawable/com_google_android_gsf_loginbtn_dir_prev_pressed_dark</item>
+    <item name="drawable/ic_bullet_key_permission">@drawable/ic_bullet_key_permission</item>
+    <item name="drawable/ic_launcher_settings">@mipmap/ic_launcher_settings</item>
+</resource-redirections>

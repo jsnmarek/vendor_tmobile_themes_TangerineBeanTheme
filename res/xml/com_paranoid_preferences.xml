@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="style/AppTheme">@style/com_android_email_EmailTheme</item>
+    <item name="color/holo_blue_bright">@color/pink</item>
+    <item name="drawable/about_dlg_background">@color/black</item>
+    <item name="drawable/ic_about">@drawable/ic_menu_info_details</item>
+    <item name="drawable/ic_apps">@drawable/ic_menu_search</item>
+    <item name="drawable/ic_beta">@drawable/ic_menu_alert</item>
+    <item name="drawable/ic_help">@drawable/ic_menu_help</item>
+    <item name="drawable/ic_interface">@drawable/ic_menu_chat_dashboard</item>
+    <item name="drawable/ic_properties">@drawable/ic_menu_note</item>
+    <item name="drawable/ic_quicklaunch">@drawable/ic_menu_home</item>
+    <item name="drawable/ic_tools">@drawable/ic_menu_preferences</item>
+</resource-redirections>

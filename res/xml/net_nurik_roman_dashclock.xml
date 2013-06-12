@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="style/ConfigurationActivityTheme">@android:style/Theme.Holo.DialogWhenLarge.NoActionBar</item>
+    <item name="color/extension_list_item_color">@color/holo_blue_light</item>
+    <item name="color/configure_light_background">@color/black</item>
+    <item name="drawable/ab_background">@drawable/ab_solid_dark_holo</item>
+    <item name="drawable/ab_background_translucent">@drawable/ab_background_translucent</item>
+    <item name="drawable/ab_transparent_dark_holo">@drawable/ab_transparent_dark_holo</item>
+    <item name="drawable/btn_colored_default">@drawable/list_unread_holo</item>
+    <item name="drawable/btn_colored_focused">@drawable/list_focused_holo</item>
+    <item name="drawable/btn_colored_pressed">@drawable/list_pressed_holo</item>
+    <item name="drawable/ic_action_done">@drawable/ic_menu_done</item>
+    <item name="drawable/ic_action_overflow">@drawable/ic_menu_overflow</item>
+    <item name="drawable/ic_list_settings">@drawable/ic_menu_preferences</item>
+    <item name="drawable/list_divider_holo_dark">@drawable/list_divider_holo</item>
+    <item name="drawable/list_divider_holo_light">@drawable/list_divider_holo</item>
+    <item name="drawable/widget_divider">@drawable/list_divider_holo</item>
+</resource-redirections>

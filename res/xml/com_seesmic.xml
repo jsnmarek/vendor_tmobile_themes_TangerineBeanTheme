@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="color/dial_fill_color">@color/holo_blue_light</item>
+    <item name="color/label_disabled_color">@color/verydarkgray</item>
+    <item name="color/label_normal_color">@color/verylightgray</item>
+    <item name="color/label_selected_color">@color/holo_blue_light</item>
+    <item name="color/thumbnail_bg_color">@color/black</item>
+    <item name="drawable/background_texture">@drawable/background_holo_dark</item>
+    <item name="drawable/effect_thumbnail_bg_normal">@color/black</item>
+    <item name="drawable/effect_thumbnail_bg_pressed">@color/holo_blue_light</item>
+    <item name="drawable/effect_thumbnail_bg_selected">@color/verydarkgray</item>
+    <item name="drawable/startup_background">@drawable/background_holo_dark</item>
+    <item name="drawable/tile_bg_normal">@color/black</item>
+    <item name="drawable/tile_bg_pressed">@color/holo_blue_light</item>
+    <item name="drawable/tile_bg_selected">@color/verydarkgray</item>
+</resource-redirections>

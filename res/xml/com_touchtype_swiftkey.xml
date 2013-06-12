@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="color/default_background">@color/pink</item>
+    <item name="color/default_key_top">@color/purple</item>
+    <item name="color/ics_blue">@color/red</item>
+    <item name="color/ics_flow_ink_head">@color/yellow</item>
+    <item name="color/ics_flow_ink_tail">@color/yellow</item>
+    <item name="color/new_default_blue">@color/green</item>
+    <item name="color/sky_gradient_start">@color/yellow</item>
+    <item name="drawable/cobalt_btn">@drawable/com_touchtype_swiftkey_cobalt_btn</item>
+    <item name="drawable/cobalt_btn_candidate_key">@drawable/com_touchtype_swiftkey_cobalt_btn_candidate_key</item>
+    <item name="drawable/ics_key_background">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_normal_off_holo</item>
+    <item name="drawable/launcher_icon">@drawable/com_touchtype_swiftkey_launcher_icon</item>
+    <item name="drawable/sky_radial_gradient">@color/yellow</item>
+</resource-redirections>

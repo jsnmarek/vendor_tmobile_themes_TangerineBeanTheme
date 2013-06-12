@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="color/about_swype_links">@color/holo_blue_light</item>
+    <item name="color/trace_classic_orange">@color/holo_blue_trans</item>
+    <item name="color/trace_classic_orange_opaque">@color/holo_blue_light</item>
+    <item name="drawable/classic_btn_keyboard_action_key_checked">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_active_holo</item>
+    <item name="drawable/classic_btn_keyboard_action_key_normal">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_normal_holo</item>
+    <item name="drawable/classic_btn_keyboard_action_key_pressed">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_pressed_holo</item>
+    <item name="drawable/classic_btn_keyboard_key_normal">@drawable/com_android_inputmethod_latin_btn_keyboard_key_light_normal_holo</item>
+    <item name="drawable/classic_btn_keyboard_key_pressed">@drawable/com_android_inputmethod_latin_btn_keyboard_key_light_pressed_holo</item>
+    <item name="drawable/classic_keyboard_background">@drawable/com_android_inputmethod_latin_keyboard_background</item>
+    <item name="drawable/classic_keyboard_suggest_strip">@drawable/com_android_inputmethod_latin_keyboard_suggest_strip_holo</item>
+    <item name="drawable/classic_keyboard_suggest_strip_handwriting">@drawable/com_android_inputmethod_latin_keyboard_suggest_strip_holo</item>
+    <item name="drawable/classic_keyboard_suggest_ver_strip_divider">@drawable/com_android_inputmethod_latin_keyboard_suggest_strip_holo</item>
+    <item name="drawable/classic_theme_preview">@drawable/com_nuance_swype_classic_theme_preview</item>
+    <item name="drawable/glow_orange">@drawable/com_nuance_swype_glow_orange</item>
+    <item name="drawable/keyboard_popup_btn_close_normal">@drawable/btn_close_normal</item>
+    <item name="drawable/keyboard_popup_btn_close_pressed">@drawable/btn_close_pressed</item>
+    <item name="drawable/keyboard_popup_btn_close_pressed_orange">@drawable/btn_close_pressed</item>
+    <item name="drawable/keyboard_swype_logo_5row_orange">@drawable/com_nuance_swype_keyboard_swype_logo_5row_orange</item>
+    <item name="drawable/keyboard_swype_logo_orange">@drawable/com_nuance_swype_keyboard_swype_logo_orange</item>
+    <item name="drawable/list_selector_background_pressed_orange">@drawable/list_selected_holo</item>
+    <item name="drawable/record_background">@drawable/com_nuance_swype_record_background</item>
+    <item name="drawable/record_cancel">@drawable/com_nuance_swype_record_cancel</item>
+    <item name="drawable/record_cancel_press">@drawable/com_nuance_swype_record_cancel_press</item>
+    <item name="drawable/record_done">@drawable/com_nuance_swype_record_cancel</item>
+    <item name="drawable/record_done_press">@drawable/com_nuance_swype_record_cancel_press</item>
+    <item name="drawable/swype_icon">@drawable/com_nuance_swype_swype_icon</item>
+    <item name="drawable/swype_logo">@drawable/com_nuance_swype_swype_logo</item>
+    <item name="drawable/vis01">@drawable/com_nuance_swype_vis01</item>
+    <item name="drawable/vis02">@drawable/com_nuance_swype_vis02</item>
+    <item name="drawable/vis03">@drawable/com_nuance_swype_vis03</item>
+    <item name="drawable/vis04">@drawable/com_nuance_swype_vis04</item>
+    <item name="drawable/vis05">@drawable/com_nuance_swype_vis05</item>
+    <item name="drawable/vis06">@drawable/com_nuance_swype_vis06</item>
+</resource-redirections>
