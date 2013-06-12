@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:hasCode="false" android:versionCode="11" android:versionName="1.1" android:installLocation="internalOnly" package="com.jsnmarek.theme.TangerineBeanTheme"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+    <application android:label="@string/theme_name" android:icon="@drawable/icon">
+        <activity android:label="@string/theme_name" android:name="com.tmobile.theme.Foo" />
+    </application>
+    <theme pluto:themeId="TangerineBean" pluto:styleId="@style/TangerineBean" pluto:name="@string/theme_name" pluto:preview="@drawable/preview" pluto:author="@string/author" pluto:copyright="@string/copyright" pluto:wallpaperImage="@drawable/homescreen" pluto:styleName="@string/style_appearance_name" />
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17"
+    />
+
+	</manifest>
